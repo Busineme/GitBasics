@@ -1,6 +1,7 @@
 from django.conf.urls import patterns, include, url
 from django.contrib import admin
 #aloalo
+#aloalo2
 urlpatterns = patterns('',
     # Examples:
     # url(r'^$', 'biblioteca.views.home', name='home'),
